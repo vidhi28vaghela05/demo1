@@ -28,6 +28,12 @@ git config --list
 
 
 
+-----------------
+for remove  git repo orgin
+git remote remove origin 
+
+----------------
+
 
   
 -----------------------------------------------------------------------------------
@@ -85,7 +91,11 @@ npm run start
 new repo tailwind-cli
 
 git remote add origin https://github.com/vidhi28vaghela05/tailwind-cli.git
+-----------------
+for remove  git repo orgin
+git remote remove origin 
 
+----------------
 git add .
 
  git commit -m "tailwind-cli"
