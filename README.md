@@ -131,3 +131,21 @@ git remote add origin https://github.com/vidhi28vaghela05/SmartServe-Solutions.g
 git add .
  git commit -m "msg"
 git push origin master
+
+
+
+
+
+
+
+
+
+
+
+
+
+postman id:
+
+username: pabot123
+email: pabot31891@spotshops.com
+password: pabot31891
