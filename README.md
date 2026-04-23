@@ -146,6 +146,6 @@ git push origin master
 
 postman id:
 
-username: pabot123
-email: pabot31891@spotshops.com
-password: pabot31891
+postman username: pabot123
+postman email: pabot31891@spotshops.com
+postman password: pabot31891
