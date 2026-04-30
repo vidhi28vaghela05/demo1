@@ -149,3 +149,9 @@ postman id:
 postman username: pabot123
 postman email: pabot31891@spotshops.com
 postman password: pabot31891
+
+
+
+
+stripe pyment gatway : STRIPE_SECRET_KEY = sk_test_51TRmjfFUNDHqzIs5cx993ziz5TiBDOHLO7ymoHoJqD1xZJJRutqEgQVJt3tZArF6T7CoaiJEnjqlkHhIcr9i6D3U00NNBl9Wqb
+stripe pyment gatway : STRIPE_WEBHOOK_SECRET = whsec_your_test_webhook_secret
